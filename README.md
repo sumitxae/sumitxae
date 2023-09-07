@@ -3,7 +3,6 @@
 Welcome to my little corner of the digital realm. I'm a passionate web developer with a soft spot for creating dynamic and visually stunning experiences.
 
 - 🌐 Crafting digital wonders in the realm of web development. Every pixel counts, and every line of code is a stroke of the brush.
-- 🎨 Currently, my creative cauldron is bubbling with a canvas-based website named [CyberFiction.io](https://cyberfiction.io/?ckattempt=1). Unleashing interactivity through the power of HTML, CSS, JavaScript, and a sprinkle of JS libraries.
 - 🌱 My tech garden is blooming with knowledge in the realms of responsive design, DOM manipulation, and UI/UX sorcery.
 - 💡 Area of Expertise: Crafting pixel-perfect user interfaces that bridge the gap between aesthetics and functionality.
 - 💬 Let's chat about design philosophies, code tricks, or even your favorite coffee blend. My inbox is always open!
